@@ -14,4 +14,3 @@ class motor {
         System.out.println("Tipe: " + tipe + ", Warna: " + warna);
     }
 }
-
